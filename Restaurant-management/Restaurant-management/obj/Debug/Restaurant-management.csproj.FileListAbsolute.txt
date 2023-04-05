@@ -1,0 +1,158 @@
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\Restaurant-management.exe.config
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\Restaurant-management.exe
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\Restaurant-management.pdb
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\EnvDTE.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\stdole.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.MSXML.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant-management.csproj.AssemblyReference.cache
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fChangePassword.resources
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fFood.resources
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fPromotion.resources
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fReport.resources
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fLogin.resources
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fPay.resources
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fprofile.resources
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.frmMain.resources
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.frmStaff.resources
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fSales.resources
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fTable.resources
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.Properties.Resources.resources
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant-management.csproj.GenerateResource.cache
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant-management.csproj.CoreCompileInputs.cache
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant-management.exe
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant-management.pdb
+C:\Users\HO VAN TRUONG\Desktop\Mẫu thiết kế\final\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant-management.csproj.CopyComplete
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\Restaurant-management.exe.config
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\Restaurant-management.exe
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\Restaurant-management.pdb
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\EnvDTE.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\stdole.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\Microsoft.MSXML.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant-management.csproj.AssemblyReference.cache
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fChangePassword.resources
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fFood.resources
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fPromotion.resources
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fReport.resources
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fLogin.resources
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fPay.resources
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fprofile.resources
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.frmMain.resources
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.frmStaff.resources
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fSales.resources
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.fTable.resources
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant_management.Properties.Resources.resources
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant-management.csproj.GenerateResource.cache
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant-management.csproj.CoreCompileInputs.cache
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant-management.csproj.CopyComplete
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant-management.exe
+D:\Software Engineer\3 - Junior\HK1 Slide + Lab\Design Pattern\Deadline\pattern\Restaurant-management\Restaurant-management\obj\Debug\Restaurant-management.pdb
